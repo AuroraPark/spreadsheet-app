@@ -3,6 +3,7 @@
 
 # [:rocket: Go To Demo Page!!](https://aurorapark.github.io/spreadsheet-app/)
 
+![image](https://github.com/AuroraPark/spreadsheet-app/assets/47839204/7a6154d1-3416-4f5a-a8ae-e18e8c512589)
 
 ## 앱 소개
 
